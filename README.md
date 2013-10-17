@@ -10,3 +10,5 @@ The city map is read from a file, and the number of entities is customizable (nu
 This is essentially a concurrency test, where hundreds of threads run simultaneously to find the quickest paths from where an entity is to its destiny.
 
 To run: ``java -jar ThiefCatch.jar map.txt``
+
+![](http://s17.postimg.org/pi5flv5r3/printscreen.png)
