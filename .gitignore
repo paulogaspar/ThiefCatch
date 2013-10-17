@@ -1,0 +1,13 @@
+dist/
+build/
+backup*
+backup*/
+build.xml
+*.doc
+*.docx
+*.pdf
+*.zip
+nbproject/
+not used images/
+BRA/
+manifest.mf
